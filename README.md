@@ -1,2 +1,2 @@
-# ticket-booking-calculator
-A beginner-friendly ticket booking calculator created to practice basic programming concepts and logic.
+# python-beginner-projects
+A collection of beginner-friendly Python projects built to practice basic programming concepts and logic.
